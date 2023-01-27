@@ -1,2 +1,3 @@
 # .github
-Public README.md file
+
+More soon! Existing repos are over at [[https://github.com/oresat]] organizatin.
