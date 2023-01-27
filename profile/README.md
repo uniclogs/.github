@@ -1,21 +1,8 @@
-## University Class Open Ground Station Network
+## University Class Open Ground Station Network (UniClOGS)
 
-A University-Class of ground stations created by the OreSat organization. A sub-group of the Portland State Aerospace Society *(PSAS)*.
+UniClOGS is an open source satellite ground station meant for amateur satellite operators at universities and small, resource-constrained organizations. UniClOGS is based on the [Satellite Networked Open Ground Station (SatNOGS)](https://www.satnogs.org/) from the [Libre Space Foundation](https://libre.space/).  Building a UniClOGS will cost between $5,000 USD - $20,000 USD depending on the features you need, compared to a receive only SatNOGS (< $250) and a commercially available ground station (> $110,000). 
 
-&nbsp;
+You can find pictures and more general information at https://www.uniclogs.org/.
 
-***
+UniClOGS is a project of the [Portland State Aerospace Society](https://www.pdxaerospace.org) ([Github](https://github.com/psas)), which also has the [OreSat CubeSat](https://www.oresat.org) ([Github](https://github.com/oresat)) project for which this station project was originally developed for.
 
-## Quick Links:
-
-### UniClOGS:
-* [Website](https://www.uniclogs.org)
-* [Github](https://github.com/uniclogs)
-
-### OreSat:
-* [Website](https://www.oresat.org)
-* [Github](https://github.com/oresat)
-
-### PSAS:
-* [Website](https://www.pdxaerospace.org)
-* [Github](https://github.com/psas)
