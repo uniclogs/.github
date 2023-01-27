@@ -1,4 +1,6 @@
-## Hi there 👋
+## Organization just starting up...
+
+Please see https://github.com/oresat for existing UniClOGS repositories for now!
 
 <!--
 
