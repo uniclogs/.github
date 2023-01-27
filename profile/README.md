@@ -1,14 +1,21 @@
-## Organization just starting up...
+## University Class Open Ground Station Network
 
-Please see https://github.com/oresat for existing UniClOGS repositories for now!
+A University-Class of ground stations created by the OreSat organization. A sub-group of the Portland State Aerospace Society *(PSAS)*.
 
-<!--
+&nbsp;
 
-**Here are some ideas to get you started:**
+***
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Quick Links:
+
+### UniClOGS:
+* [Website](https://www.uniclogs.org)
+* [Github](https://github.com/uniclogs)
+
+### OreSat:
+* [Website](https://www.oresat.org)
+* [Github](https://github.com/oresat)
+
+### PSAS:
+* [Website](https://www.pdxaerospace.org)
+* [Github](https://github.com/psas)
